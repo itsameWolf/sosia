@@ -1,0 +1,11 @@
+file_format: "1"
+id: sosia
+name: Sosia
+type: shield
+url: https://github.com/foostan/crkbd/
+requires: [seeed_xiao]
+features:
+  - keys
+siblings:
+  - sosia_left
+  - sosia_right
